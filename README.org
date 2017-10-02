@@ -5,14 +5,25 @@
 ** Coding, Maths and Circuits
 *** Timetable (Provisional)
 
-| When             | In Class                                                          | Homework |
-|------------------+-------------------------------------------------------------------+----------|
-| [2017-10-02 Mon] | Overview; Project Briefs; Processing 1: Animation and Interaction |          |
-| [2017-10-09 Mon] | Graphics, Maths and Loops                                         |          |
-| [2017-10-16 Mon] | Iteration, Replication, The Start of Time                         |          |
-| [2017-10-23 Mon] | Clocks                                                            |          |
-| [2017-10-30 Mon] | FORMATIVE                                                         |          |
-| [2017-11-13 Mon] | Arduino Basics                                                    |          |
-| [2017-11-20 Mon] | LEDs and NeoPixels                                                |          |
-| [2017-11-27 Mon] | RTC, Rotary and Binary Coding                                     |          |
-| [2017-12-04 Mon] | FORMATIVE: Clock Design Presentations                             |          |
+| When             | Week | In Class                                                          | Homework |
+|------------------+------+-------------------------------------------------------------------+----------|
+| [2017-10-02 Mon] |    1 | Overview; Project Briefs; Processing 1: Animation and Interaction |          |
+| [2017-10-09 Mon] |    2 | Graphics, Maths and Loops                                         |          |
+| [2017-10-16 Mon] |    3 | Iteration, Replication, The Start of Time                         |          |
+| [2017-10-23 Mon] |    4 | Clocks                                                            |          |
+| [2017-10-30 Mon] |    5 | FORMATIVE                                                         |          |
+| [2017-11-13 Mon] |    7 | Arduino Basics                                                    |          |
+| [2017-11-20 Mon] |    8 | LEDs and NeoPixels                                                |          |
+| [2017-11-27 Mon] |    9 | RTC, Rotary and Binary Coding                                     |          |
+| [2017-12-04 Mon] |   10 | FORMATIVE: Clock Design Presentations                             |          |
+
+** Week 1 / [2017-10-02 Mon]
+
+| Location | Equipment to Bring |
+|----------+--------------------|
+| M02      | Laptop             |
+
+- Admistrative Overview :: timetables, Moodle, GitHub, ...
+- Course Documents :: Unit Description, Project Brief
+- Unit Structure :: Formatives, Summatives, ...
+- Processing :: Kicking Off
