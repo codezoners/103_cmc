@@ -3,16 +3,16 @@
 
 * ~103_cmc~
 ** Coding, Maths and Circuits
-*** Timetable
+*** Timetable (Provisional)
 
-| When             | In Class                 |
-|------------------+--------------------------|
-| [2017-10-02 Mon] | - Overview; Processing 1 |
-| [2017-10-09 Mon] |                          |
-| [2017-10-16 Mon] |                          |
-| [2017-10-23 Mon] |                          |
-| [2017-10-30 Mon] |                          |
-| [2017-11-13 Mon] |                          |
-| [2017-11-20 Mon] |                          |
-| [2017-11-27 Mon] |                          |
-| [2017-12-04 Mon] |                          |
+| When             | In Class                                                          | Homework |
+|------------------+-------------------------------------------------------------------+----------|
+| [2017-10-02 Mon] | Overview; Project Briefs; Processing 1: Animation and Interaction |          |
+| [2017-10-09 Mon] | Graphics, Maths and Loops                                         |          |
+| [2017-10-16 Mon] | Iteration, Replication, The Start of Time                         |          |
+| [2017-10-23 Mon] | Clocks                                                            |          |
+| [2017-10-30 Mon] | FORMATIVE                                                         |          |
+| [2017-11-13 Mon] | Arduino Basics                                                    |          |
+| [2017-11-20 Mon] | LEDs and NeoPixels                                                |          |
+| [2017-11-27 Mon] | RTC, Rotary and Binary Coding                                     |          |
+| [2017-12-04 Mon] | FORMATIVE: Clock Design Presentations                             |          |
