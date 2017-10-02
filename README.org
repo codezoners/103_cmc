@@ -1,18 +1,18 @@
-`-*- mode: org; mode: visual-line; -*-`
+~-*- mode: org; mode: visual-line; -*-~
 #+STARTUP: indent
 
-* `103_cmc`
+* ~103_cmc~
 ** Coding, Maths and Circuits
 *** Timetable
 
-| When             | In Class |
-|------------------+----------|
-| [2017-10-02 Mon] |          |
-| [2017-10-09 Mon] |          |
-| [2017-10-16 Mon] |          |
-| [2017-10-23 Mon] |          |
-| [2017-10-30 Mon] |          |
-| [2017-11-13 Mon] |          |
-| [2017-11-20 Mon] |          |
-| [2017-11-27 Mon] |          |
-| [2017-12-04 Mon] |          |
+| When             | In Class     |
+|------------------+--------------|
+| [2017-10-02 Mon] | <UL><LI>Overview <LI>Processing 1 |
+| [2017-10-09 Mon] |              |
+| [2017-10-16 Mon] |              |
+| [2017-10-23 Mon] |              |
+| [2017-10-30 Mon] |              |
+| [2017-11-13 Mon] |              |
+| [2017-11-20 Mon] |              |
+| [2017-11-27 Mon] |              |
+| [2017-12-04 Mon] |              |
