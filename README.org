@@ -5,23 +5,23 @@
 ** Coding, Maths and Circuits
 *** Timetable (Provisional)
 
-| When             | Week | Loc | In Class                                  | Homework |
-|------------------+------+-----+-------------------------------------------+----------|
-| [2017-10-02 Mon] |    1 | M02 | Overview; Project Briefs; Processing 1    |          |
-| [2017-10-09 Mon] |    2 |     | Graphics, Maths and Loops                 |          |
-| [2017-10-16 Mon] |    3 |     | Iteration, Replication, The Start of Time |          |
-| [2017-10-23 Mon] |    4 |     | Clocks                                    |          |
-| [2017-10-30 Mon] |    5 |     | *FORMATIVE 1*: Screen-Based Animations    |          |
-| [2017-11-13 Mon] |    7 |     | Arduino Basics                            |          |
-| [2017-11-20 Mon] |    8 |     | LEDs and NeoPixels                        |          |
-| [2017-11-27 Mon] |    9 |     | RTC, Rotary and Binary Coding             |          |
-| [2017-12-04 Mon] |   10 |     | *FORMATIVE 2*: Clock Design Presentations |          |
-| [2017-12-15 Fri] |      |     | *FORMATIVE 3*: Project 1 hand-in (Moodle) |          |
+| When             | Week | Loc | In Class                                  | Homework                     |
+|------------------+------+-----+-------------------------------------------+------------------------------|
+| [2017-10-02 Mon] |    1 | M02 | Overview; Project Briefs; Processing 1    | Clocks at the Science Museum |
+| [2017-10-09 Mon] |    2 |     | Graphics, Maths and Loops                 |                              |
+| [2017-10-16 Mon] |    3 |     | Iteration, Replication, The Start of Time |                              |
+| [2017-10-23 Mon] |    4 |     | Clocks                                    |                              |
+| [2017-10-30 Mon] |    5 |     | *FORMATIVE 1*: Screen-Based Animations    |                              |
+| [2017-11-13 Mon] |    7 |     | Arduino Basics                            |                              |
+| [2017-11-20 Mon] |    8 |     | LEDs and NeoPixels                        |                              |
+| [2017-11-27 Mon] |    9 |     | RTC, Rotary and Binary Coding             |                              |
+| [2017-12-04 Mon] |   10 |     | *FORMATIVE 2*: Clock Design Presentations |                              |
+| [2017-12-15 Fri] |      |     | *FORMATIVE 3*: Project 1 hand-in (Moodle) |                              |
 
 *** Course Links
 
-- [[http://timetable.rave.ac.uk/1718/g1336.html][Design & Coding, Year 1]]
-- [[https://moodle.rave.ac.uk/course/view.php?id=4634][Moodle: Coding, Maths and Circuits]]
+- [[http://timetable.rave.ac.uk/1718/g1336.html][Design & Coding, Year 1]] timetabling details
+- [[https://moodle.rave.ac.uk/course/view.php?id=4634][Coding, Maths and Circuits]] on Moodle
 
 *** Week 1 / [2017-10-02 Mon]
 
@@ -30,7 +30,7 @@
 | M02      | Laptop             |
 
 - Admistrative Overview :: timetables, Moodle, GitHub ("codezoners"), ... and Slack!
-- Other Units ::
+- Other Units :: Approaching Design, WAIWAIG, 2D Design Lab, Practice in Context
 - Course Documents :: Unit Description, Project Brief (on Moodle)
 - Unit Structure :: Formatives, Summatives, ...
 - Processing :: Kicking Off
