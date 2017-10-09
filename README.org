@@ -5,18 +5,18 @@
 ** Coding, Maths and Circuits
 *** Timetable (Provisional)
 
-| When             | Week | Loc | In Class                                  | Homework                     |
-|------------------+------+-----+-------------------------------------------+------------------------------|
-| [2017-10-02 Mon] |    1 | M02 | Overview; Project Briefs; Processing 1    | Clocks at the Science Museum |
-| [2017-10-09 Mon] |    2 |     | Graphics, Maths and Loops                 |                              |
-| [2017-10-16 Mon] |    3 |     | Iteration, Replication, The Start of Time |                              |
-| [2017-10-23 Mon] |    4 |     | Clocks                                    |                              |
-| [2017-10-30 Mon] |    5 |     | *FORMATIVE 1*: Screen-Based Animations    |                              |
-| [2017-11-13 Mon] |    7 |     | Arduino Basics                            |                              |
-| [2017-11-20 Mon] |    8 |     | LEDs and NeoPixels                        |                              |
-| [2017-11-27 Mon] |    9 |     | RTC, Rotary and Binary Coding             |                              |
-| [2017-12-04 Mon] |   10 |     | *FORMATIVE 2*: Clock Design Presentations |                              |
-| [2017-12-15 Fri] |      |     | *FORMATIVE 3*: Project 1 hand-in (Moodle) |                              |
+| When             | Week | Loc | In Class                                       | Homework                     |
+|------------------+------+-----+------------------------------------------------+------------------------------|
+| [2017-10-02 Mon] |    1 | M02 | Overview; Project Briefs; Processing 1         | Clocks at the Science Museum |
+| [2017-10-09 Mon] |    2 | M02 | Processing redux; Time and Motion; Interaction |                              |
+| [2017-10-16 Mon] |    3 |     | Iteration, Replication, Times and Dates        |                              |
+| [2017-10-23 Mon] |    4 |     | Clocks                                         |                              |
+| [2017-10-30 Mon] |    5 |     | *FORMATIVE 1*: Screen-Based Animations         |                              |
+| [2017-11-13 Mon] |    7 |     | Arduino Basics                                 |                              |
+| [2017-11-20 Mon] |    8 |     | LEDs and NeoPixels                             |                              |
+| [2017-11-27 Mon] |    9 |     | RTC, Rotary and Binary Coding                  |                              |
+| [2017-12-04 Mon] |   10 |     | *FORMATIVE 2*: Clock Design Presentations      |                              |
+| [2017-12-15 Fri] |      |     | *FORMATIVE 3*: Project 1 hand-in (Moodle)      |                              |
 
 *** Course Links
 
@@ -33,4 +33,13 @@
 - Other Units :: Approaching Design, WAIWAIG, 2D Design Lab, Practice in Context
 - Course Documents :: Unit Description, Project Brief (on Moodle)
 - Unit Structure :: Formatives, Summatives, ...
-- Processing :: Kicking Off
+- Processing :: Kicking Off: Bouncing Balls
+
+*** Week 2 / [2017-10-09 Mon]
+
+| Location | Equipment to Bring |
+|----------+--------------------|
+| M02      | Laptop             |
+
+- Processing :: a review of what we did last week, and a first look at combining time and motion
+- Research :: more looking and clocks; thinking about interaction
