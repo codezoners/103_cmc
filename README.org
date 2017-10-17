@@ -43,3 +43,11 @@
 
 - Processing :: a review of what we did last week, and a first look at combining time and motion
 - Research :: more looking and clocks; thinking about interaction
+
+*** Week 3 / [2017-10-17 Tue]
+
+| Location | Equipment to Bring |
+|----------+--------------------|
+|      208 | Laptop             |
+
+- Processing :: digital clocks, text processing
