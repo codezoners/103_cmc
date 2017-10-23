@@ -57,3 +57,5 @@
 | Location | Equipment to Bring |
 |----------+--------------------|
 |      105 | Laptop             |
+
+- Processing :: mouse tracking, interaction, arrays, conditionals, loops
